@@ -1,3 +1,3 @@
 # autodiag
 Autodijagnostika (edukativnog karaktera) 
-design by giz
+design by Dino Smajic
