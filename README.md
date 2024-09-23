@@ -1,3 +1,3 @@
-# autodiag
-Autodijagnostika (edukativnog karaktera) 
-design by Dino Smajic
+# gizz tuning
+
+design by Dino
